@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  DynamicLocalization
+
+  Created by Ashfaq Shaikh on 09/02/22.
+  
+*/
+"Heading" = "शीर्षक";
+"Description" = "विवरण";
+"Enter Text Here..." = "पाठ यहां लिखें...";
+"Change Language" = "भाषा बदलो";
+"Send" = "भेजना";

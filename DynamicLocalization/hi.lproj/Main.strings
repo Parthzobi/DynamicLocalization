@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "TextField"; ObjectID = "FfV-ck-cGH"; */
+"FfV-ck-cGH.placeholder" = "TextField";
+
+/* Class = "UILabel"; text = "Heading"; ObjectID = "IgW-un-KgG"; */
+"IgW-un-KgG.text" = "Heading";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "XUJ-3K-gTi"; */
+"XUJ-3K-gTi.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "ZYf-JQ-nf1"; */
+"ZYf-JQ-nf1.text" = "Description";

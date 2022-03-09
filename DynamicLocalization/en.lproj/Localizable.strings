@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  DynamicLocalization
+
+  Created by Ashfaq Shaikh on 09/02/22.
+  
+*/
+"Heading" = "Heading";
+"Description" = "Description";
+"Enter Text Here..." = "Enter Text Here...";
+"Change Language" = "Change Language";
+"Send" = "Send";
